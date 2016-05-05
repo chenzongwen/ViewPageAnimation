@@ -1,5 +1,5 @@
 ViewPageAnimation 
-======
+==================
 
 
 This is a demo use viewpage
@@ -10,8 +10,9 @@ This is a demo use viewpage
 Author
 ===========
 
-e-mail：zongwen.chen@qq.com
-- [blog](http://blog.csdn.net/owenchan1987)
+E-mail: zongwen.chen@qq.com
+
+ Blog : http://blog.csdn.net/owenchan1987
 
 License
 ============
